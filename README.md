@@ -15,3 +15,5 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
   - 레포지토리 생성
 
   - 프레임워크 선정
+
+    - 아직 결정되지 않음
