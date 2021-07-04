@@ -1,7 +1,7 @@
 # COVID-19-NOTICE
 
 이 레포지토리는 '코로나19 선별진료소'의 업무를 지원하기 위한 페이지 제작 / 호스팅을 위해 만들어졌습니다.  
-This repository is created for making and hosting the page for support COVID-19 testing booth.  
+This repository is created for making and hosting the page for support COVID-19 triage room.  
 
 ## Contact Me | 연락처
 
