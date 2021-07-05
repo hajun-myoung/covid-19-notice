@@ -10,10 +10,22 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
 
 ## Update LOG | 업데이트 기록
 
-- JUL 3, SAT
+- SAT, JUL 3
 
   - 레포지토리 생성
 
-  - 프레임워크 선정
+  - 프레임워크(이하 'fw') 선정
 
     - 아직 결정되지 않음
+
+- MON, JUL 5
+
+  - fw 결정 : 뷰프레스 2
+
+    - 뷰프레스 1을 적용하여 괜찮은 테마를 찾고자 하였으나, 특별한 테마나 템플릿을 찾아내지 못함.
+
+    - 뷰프레스 2가 제공하는 `config.ts` 등의 기능을 포기하기 싫음.
+
+- TUE, JUL 6
+
+  - 뷰프레스 초기 셋팅
