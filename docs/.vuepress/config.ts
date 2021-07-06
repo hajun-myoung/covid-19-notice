@@ -11,6 +11,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     lastUpdated: true,
     contributors: false,
     home: '/',
+    base: '/covid-19-notice/',
+    dest: './dist',
     notFound: ['없는 페이지입니다.'],
     backToHome: '홈 화면으로',
     navbar: [
