@@ -8,5 +8,19 @@ export default defineUserConfig<DefaultThemeOptions>({
 
   themeConfig: {
     logo: './image/logo.png',
+    lastUpdated: true,
+    home: '/',
+    notFound: ['없는 페이지입니다.'],
+    backToHome: '홈 화면으로',
+    navbar: [
+      {
+        text: '코로나19 선별진료',
+        link: '/covid-19/'
+      },
+      {
+        text: '기타 안내',
+        link: '/other/'
+      },
+    ],
   },
 })
