@@ -7,8 +7,8 @@ actions:
   - text: 페이지 이용
     link: /guide/
     type: primary
-  - text: 코로나19 선별검사
-    link: ./
+  - text: 코로나19 선별검사 안내 →
+    link: /covid-19/
     type: secondary
 features:
   - title: 코로나19 선별검사
