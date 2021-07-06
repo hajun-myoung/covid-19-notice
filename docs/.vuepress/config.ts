@@ -9,6 +9,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     logo: './image/logo.png',
     lastUpdated: true,
+    contributors: false,
     home: '/',
     notFound: ['없는 페이지입니다.'],
     backToHome: '홈 화면으로',
