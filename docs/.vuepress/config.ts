@@ -35,6 +35,7 @@ export default defineUserConfig<DefaultThemeOptions>({
               text: '페이지 열람 방법',
               children: [
                 'README.md',
+                'contact.md',
               ]
           }
       ],
@@ -55,6 +56,10 @@ export default defineUserConfig<DefaultThemeOptions>({
           text: '기타 안내',
           children: [
             'README.md',
+            'dementia-center.md',
+            'oral-health-care.md',
+            'health-certification.md',
+            'various-rental-service.md',
           ],
         },
       ],
