@@ -29,3 +29,25 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
 - TUE, JUL 6
 
   - 뷰프레스 초기 셋팅
+
+- WED, JUL 7
+
+  - 디플로잉 Automation 적용 : github pages
+
+  - 디플로잉 문제 해결 : `commit 935d933`
+
+  - 테마 수정
+
+    - 네비게이션 바 적용
+
+    - 사이드 바 적용
+
+    - Search 플러그인 설치 및 적용
+
+    - 'Contributor' 비활성화
+
+    - 스타일 지정
+
+      - 브랜드 컬러 지정
+
+  - 한글문서 작업 시작
