@@ -2,69 +2,147 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
-  lang: 'ko-KR',
-  title: '동두천시 코로나19 선별진료소 이용안내',
-  description: '동두천시 코로나19 선별진료소 및 관련업무를 안내드리는 페이지입니다.',
   base: '/covid-19-notice/',
   dest: './dist',
 
+  locales: {
+    '/': {
+      lang: 'ko-KR',
+      title: '동두천시 코로나19 선별진료소 이용안내',
+      description: '동두천시 코로나19 선별진료소 및 보건소 관련업무를 안내드리는 페이지입니다.',
+    },
+    '/en/':{
+      lang: 'en-US',
+      title: 'NOTICE for DDC COVID-19 TRIAGE BOOTH',
+      description: "This is a page for notice DongDuCheon-si COVID-19 triage booth and health care center's business",
+    },
+  },
+
   themeConfig: {
-    logo: './image/logo.png',
-    lastUpdated: true,
-    contributors: false,
-    home: '/',
-    notFound: ['없는 페이지입니다.'],
-    backToHome: '홈 화면으로',
+    locales:{
+      '/': {
+        selectLanguageName : '한글',
 
-    navbar: [
-      {
-        text: '코로나19 선별진료',
-        link: '/covid-19/'
-      },
-      {
-        text: '기타 안내',
-        link: '/other/'
-      },
-    ],
+        logo: './image/logo.png',
+        lastUpdated: true,
+        contributors: false,
+        home: '/',
+        notFound: ['없는 페이지입니다.'],
+        backToHome: '홈 화면으로',
 
-    sidebar: {
-
-      // 가이드
-      '/guide/': [
+        navbar: [
           {
-              text: '페이지 열람 방법',
+            text: '코로나19 선별진료',
+            link: '/covid-19/'
+          },
+          {
+            text: '기타 안내',
+            link: '/other/'
+          },
+        ],
+    
+        sidebar: {
+    
+          // 가이드
+          '/guide/': [
+              {
+                  text: '페이지 열람 방법',
+                  children: [
+                    'README.md',
+                    'contact.md',
+                  ]
+              }
+          ],
+    
+          // 코로나19 선별진료 관련 안내
+          '/covid-19/': [
+            {
+              text: '코로나19 선별진료 안내',
               children: [
                 'README.md',
-                'contact.md',
-              ]
-          }
-      ],
-
-      // 코로나19 선별진료 관련 안내
-      '/covid-19/': [
-        {
-          text: '코로나19 선별진료 안내',
-          children: [
-            'README.md',
+              ],
+            },
           ],
-        },
-      ],
-
-      // 기타사항 안내
-      '/other/': [
-        {
-          text: '기타 안내',
-          children: [
-            'README.md',
-            'dementia-center.md',
-            'oral-health-care.md',
-            'health-certification.md',
-            'various-rental-service.md',
+    
+          // 기타사항 안내
+          '/other/': [
+            {
+              text: '기타 안내',
+              children: [
+                'README.md',
+                'dementia-center.md',
+                'oral-health-care.md',
+                'health-certification.md',
+                'various-rental-service.md',
+              ],
+            },
           ],
+    
         },
-      ],
+      },
+      
+      '/en/': {
+        selectLanguageName : 'English',
+
+        logo: './image/logo-en.png',
+        lastUpdated: true,
+        contributors: false,
+        home: '/en/',
+        notFound: ["I'm sorry, This page doesn't exist."],
+        backToHome: 'Back to the home →',
+
+        navbar: [
+          {
+            text: 'COVID-19 Triage',
+            link: '/en/covid-19/'
+          },
+          {
+            text: 'Other notice',
+            link: '/en/other/'
+          },
+        ],
+    
+        sidebar: {
+          // 가이드
+          '/en/guide/': [
+              {
+                  text: 'How to use this page',
+                  children: [
+                    'README.md',
+                    'contact.md',
+                  ]
+              }
+          ],
+    
+          // 코로나19 선별진료 관련 안내
+          '/en/covid-19/': [
+            {
+              text: 'COVID-19 Triage',
+              children: [
+                'README.md',
+              ],
+            },
+          ],
+    
+          // 기타사항 안내
+          '/en/other/': [
+            {
+              text: 'Other notice',
+              children: [
+                'README.md',
+                'dementia-center.md',
+                'oral-health-care.md',
+                'health-certification.md',
+                'various-rental-service.md',
+              ],
+            },
+          ],
+    
+        },
+      },
 
     },
+
   },
 
   plugins: [
@@ -75,6 +153,9 @@ export default defineUserConfig<DefaultThemeOptions>({
           '/': {
             placeholder: '여기서 검색',
           },
+          '/en/': {
+            placeholder: 'Search here',
+          }
         },
       },
     ],
