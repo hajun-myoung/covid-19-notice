@@ -1,12 +1,12 @@
-# 보건증 발급 등
+# Health certification
 
-**운영날짜** : 매주 화, 수요일
+**Operating dates** : Every Tuesday, and Wednesday.
 
-*운영날짜* 에 보건소로 방문하시면 보건증 발급 신청 및 수령이 가능합니다.  
-그 외 날짜에는 방문하셔도 관련 업무를 보실 수 없습니다.
+You can apply for and receive, or just receive it, a health certificate if you visit the health center on the *operating dates*.  
+You can't do related work even if you visit on other dates.
 
-## 필요 물품
+## Required Items
 
-- 신분증
+- ID card
 
-- 발급비용
+- Costs

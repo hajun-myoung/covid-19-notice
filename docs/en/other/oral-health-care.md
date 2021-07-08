@@ -1,17 +1,17 @@
-# 구강 보건사업
+# Oral health care business
 
-**운영 날짜** : 매주 화요일, 오전 09:30~11:30 / 오후 13:30~17:30
+**Operating dates** : Every Tuesday, Morning 09:30~11:30 / Afternoon 13:30~17:30
 
-## 운영 내용
+## Services
 
-매주 화요일에 보건소로 방문하시면, 칫솔 및 불소용액을 받으실 수 있습니다.  
+If you visit the health center every Tuesday, you can get a toothbrush and fluoride solution.  
 
-- 칫솔은 가족 구성원당 2개월에 1개씩이며,
+- One toothbrush every two months, Each family member.
 
-  - 강한모 / 부드러운모를 선택할 수 있습니다.
+  - You can choose strong wool / soft wool.
   
-- 불소용액은 한 가정당 하나만 제공되며, 다 사용하시면 보건소에서 다시 받을 수 있습니다.
+- Only one fluorine solution is provided per household. If you use it all, you can get it again at the health center.
 
-:::warning 불소용액을 다시 받으실 경우,
-처음 수령했던 불소용액 용기를 지참하시기 바랍니다.
+:::warning When you refilling the fluorine solution,
+Please bring the fluorine solution container you received for the first time.
 :::

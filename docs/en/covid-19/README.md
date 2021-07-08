@@ -1,97 +1,100 @@
-# 코로나19 선별진료 안내
+# Notice for COVID-19 Triage
 
-## 기본정보 및 주의사항
+## Basic information and Precautions
 
-### 기본정보
+### Basic information
 
-**운영시간** : 주중(월~금) 오전(09:00~11:30) / 오후(13:00~17:30), 토요일 09:30~11:30
+**Operating time** : Weekdays(MON~FRI) Morning(09:00~11:30) / Afternoon(13:00~17:30), Saturday 09:30~11:30
 
-> 종료시간 전에 대기인이 얼마나 있는지, 접촉자가 얼마나 발생했는지에 따라 통제가 이루어질 수 있습니다.
-원활한 검사를 위해 미리 방문하시기를 권장합니다.
+> Control can be achieved depending on how many people are waiting before the end time and how many contacts have occurred.
+We recommend that you visit in advance for a smooth examination.
 
-**장소** : 동두천시 보건소, 경기 동두천시 중앙로 167 동두천시보건소
+**Location** : Dongducheon-si Health Care Center, 167, Jungang-ro, Dongducheon-si, Gyeonggi-do, Republic of Korea
 
-### 주의사항
+### Precautions
 
-- 선별진료 필요물품을 꼭 챙겨주세요.
+- Please make sure to take the required items.
 
-- 대기줄에서 노란색 안전테이프 뒤에 서 주세요. (사회적 거리두기)
+- Please stand behind the yellow safety tape in the queue. (Social distancing)
 
-- 운영시간에 맞추어 방문해주세요.
+- Please visit in time for the operation.
 
-## 선별진료 필요물품
+## Required Items
 
-### 신분증
+### ID card
 
-선별진료를 받기 위해서, **신분증**은 꼭 지참하셔야 합니다.  
+In order to receive COVID-19 test, you must bring your **ID card**.  
 
-주민등록증과 같은 신분증부터, 같은 역할을 할 수 있는 *운전면허증*, *여권*, *외국인등록증* 이나 *등본*,  
-학생들의 경우 *학생증* 까지도 가능합니다.  
+ID cards such as resident registration cards, *driver's license*, *passport*, *foreign registration card*, *Copy or Abstract of Certification of Resident Register*,  
+For students, *student ID* is also available.
 
-아직 신분증이 없는 아이의 경우, 보호자분께서 아이의 주민등록번호를 숙지하여주시면 됩니다.
+For a child who doesn't have an ID yet, we need the child's social security number.
 
-> 간혹, 자차를 이용해 진료소로 오신 선생님께서는 자동차등록증 등을 제출해주시기도 합니다.
+> Sometimes, people who come to the center by car submit their car registration certificate.
 
-:::tip 실물 신분증이 아니어도 괜찮습니다.
-신분증을 촬영한 사진만 있어도 검사가 가능해요!
+:::tip It doesn't have to be a real card.
+Just a picture of your ID card is also okay.
 :::
 
-### 문자 또는 통화기록
+### A Message or a log of contact
 
-:::danger 코로나19 확진자의 밀접접촉자이거나 동선이 겹치는 경우 등에 해당됩니다.
+:::danger This applies to cases of close contact with COVID-19 confirmed patients or overlapping movements.
 
-- 보건소 등에서 '검사를 받아야 한다.'는 요지의 문자 또는 연락을 받으신 경우,
+- If you receive a message or contact that said 'You have to take COVID-19 test' from the health care center, or the other institution,
 
-- 중대본 등에서 '(기간)에 (장소)를 방문하신 분은 가까운 보건소에서 검사를 받으시기 바랍니다.'는 요지의
-문자에 해당하시는 경우에는  
+- Or if you are included of a message or contact 'If you visit (Place) at (Interval), take COVID-19 test at nearest health care center',  
 
-**받으신 문자 및 연락받은 통화기록**을 보여주셔야 합니다.
+You need to show me **the text message you received or the log of contact.**
 :::
 
-## 선별진료 진행과정
+## the Method of Triage
 
-![순서](./order.png)
+![order](./order.png)
 
-1. **문진** : 차례가 되면 문진실에서 접수 및 문진을 실시합니다.
+1. **Diagnose** : When it's your turn, you can register and get diagnose.
 
-    :::warning 문진이 뭔가요?
-    문진은, 코로나19 검사를 위하여 주요 정보를 여쭙고 확인하는 절차에요.  
-    신분, 코로나19 검사 목적(왜 받는지), 기저 질환(가지고 계신 병) 등을 확인할 수 있습니다.
+    :::warning What will I do?
+    While diagnose, we will check some basic infromation for COVID-19 test.  
+    We can check your ID, the purpose of COVID-19 test(why you received it), and the underlying disease(disorder you have), etc.
     :::
 
-1. **검체 채취** : 코로나19 검사를 위한 검체를 채취합니다.
+1. **Sampling** : Take some samples for COVID-19 test.
 
-### 검사진행 중 주의사항
+### Inspection In Progress Precautions
 
-- 통제요원의 지시를 잘 따라주세요.
+- Please follow the instructions.
 
-- 문진 또는 검사를 기다릴 때, 바닥에 표시된 테이프를 기준으로 서 주세요. (사회적 거리두기)
+- When you wait for Diagnose or Sampling, keep stand behind the yellow safety line. (Social distancing)
 
-- 아이가 검사를 받는 경우, 문진 및 검사에 보호자가 동행할 수 있습니다.
+- If you need, your guardian can accompany you to Diagnose or Sampling.
 
-## 검사비용
+## Costs
 
-현재 보건소에서 실시하고 있는 코로나19 선별검사는 **100% 급여 검사**입니다.
-따라서, 검사비용이 일체 발생하지 않습니다.  
-자비로 부담하여 검사를 받는 **비급여 검사**는 실시하고 있지 *않으니*, 이 점 유의 바랍니다.
+The current Covid-19 test conducted by the health center is a **100% payroll test**.
+Therefore, no inspection costs are incurred.  
+Please note that **non-payment inspection**, which is paid at your own expense, is not being carried out.
 
-## 검사 확인증 및 결과지
+## Verification documents
 
-코로나19 선별검사를 받았음을 증명하는 확인서,
-혹은 검사 결과 양성 또는 음성임을 통지하는 결과지는 **발급하고 있지 않습니다.**
+**There are no verification documents** that the COVID-19 test has been carried out,
+or a result sheet notifying the test result that it is positive or negative.
 
-다만, 학생의 경우, 확인증을 지참하면 해당 증에 서명을 해 드릴 수 있습니다.
+:::details How can I check the result of test?
+We only service the result of test via text message.
+:::
 
-출국심사 등을 위해 서류 결과지가 필요하시다면,
-민간병원을 방문하시어 검사를 받으시기 바랍니다.
+However, for students, we can sign the certificate if you bring it with you.
 
-:::details 동두천 근처 선별진료 가능 민간병원
-동두천 내에는 코로나19 검사를 하는 민간병원이 없습니다. 다음 병원들을 추천합니다 :
+If you need the document results for departure inspection,
+please visit a private hospital for inspection.
 
-- 양주 예스병원, 경기 양주시 회정로 103, ☎ 031-825-5000
+:::details Private hospitals capable of COVID-19 testing:
+There is no private hospital in Dongducheon that conducts COVID-19 test. I recommend the following hospitals:
 
-- 의정부 백병원, 경기 의정부시 금신로 322 의정부백병원, ☎ 031-856-8111
+- Yangju "Yes" hospital, 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, Republic of Korea, ☎ 031-825-5000
 
-- 의정부 추병원, 경기 의정부시 평화로 650 추병원, ☎ 031-845-7777
+- Uijeongbu "Baek" hospital, 322, Geumsin-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea, ☎ 031-856-8111
+
+- Uijeongbu "Choo" hospital, 650, Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea, ☎ 031-845-7777
 
 :::

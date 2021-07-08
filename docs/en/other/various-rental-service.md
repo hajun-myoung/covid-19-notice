@@ -1,11 +1,11 @@
-# 각종 대여사업
+# Various rental services
 
-## 혈당측정기 무료대여 사업
+## Blood glucose meter free lending business
 
-혈당측정기 무료대여는 예약 후 방문하셔야 합니다.
+You have to make a reservation and visit the blood glucose meter for free.
 
-![혈당측정기-포스터](./blood-sugar-poster.jpg)
+![blood-glucose-meter-poster](./blood-sugar-poster.jpg)
 
-## 유축기 등 대여 사업
+## Rental businesses for breast pump
 
-보건소로 방문하셔서 통제요원에게 말씀해주시면, 주무관님과 연결해드립니다.
+If you visit the health center and tell the control officer, I'll connect you with the officer in charge.

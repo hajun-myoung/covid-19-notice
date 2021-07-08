@@ -1,11 +1,11 @@
-# 치매안심센터 방문
+# Visit Dementia relief center
 
-치매안심센터 방문 및 치매 관련 업무를 보실 분은 보건소 별관으로 방문해주셔야 합니다.
+Those who want to visit the dementia relief center and work related to dementia should visit the health center annex.
 
-## 위치 및 가는 길
+## Location and way to go
 
-![별관위치](./dementia-center-posi.png)
+![Annex-location](./dementia-center-posi.png)
 
-:::danger 1번길(보건소를 통해서 가는 통로)가 코로나로 인해 봉쇄되었습니다.
-2번길(약국 쪽으로 돌아가는 길)을 통해 별관으로 이동해주시기 바랍니다.
+:::danger Route 1(the way through the center) has been blocked by the COVID-19
+Please use route 2(the way back to the pharmacy) to go Annex.
 :::

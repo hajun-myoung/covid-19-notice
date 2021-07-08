@@ -23,6 +23,10 @@
 
 1. 우측 상단 `해 표시`를 눌러 다크모드로 전환할 수 있어요.
 
+1. 우측 상단 `Languages`를 눌러 다른 언어를 선택할 수 있어요.
+
+    - Via the `Languages` button at the right top, you can choose another language.
+
 1. 우측 상단 `검색 박스`에서 필요한 정보를 검색할 수 있어요.
 
 ## 안내 목록
