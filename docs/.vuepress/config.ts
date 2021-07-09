@@ -16,6 +16,11 @@ export default defineUserConfig<DefaultThemeOptions>({
       title: 'NOTICE for DDC COVID-19 TRIAGE BOOTH',
       description: "This is a page for notice DongDuCheon-si COVID-19 triage booth and health care center's business",
     },
+    '/es/':{
+      lang: 'es-ES',
+      title: 'NOTICE de Booth TRIAGE DDC COVID-19',
+      description: "Esta es una página para notificar la empresa del centro de atención de salud y la cabina de triaje DongDuCheon-si COVID-19",
+    },
   },
 
   themeConfig: {
@@ -140,7 +145,67 @@ export default defineUserConfig<DefaultThemeOptions>({
     
         },
       },
+      
+      '/es/': {
+        selectLanguageName : 'Espagnol',
 
+        logo: './image/logo-es.png',
+        lastUpdated: true,
+        contributors: false,
+        home: '/es/',
+        notFound: ["Lo siento, esa página no existe."],
+        backToHome: 'De vuelta a la casa →',
+
+        navbar: [
+          {
+            text: 'Trujamiento COVID-19',
+            link: '/es/covid-19/'
+          },
+          {
+            text: 'Otra noticia',
+            link: '/es/other/'
+          },
+        ],
+    
+        sidebar: {
+          // 가이드
+          '/es/guide/': [
+              {
+                  text: 'Cómo usar esta página',
+                  children: [
+                    'README.md',
+                    'contact.md',
+                  ]
+              }
+          ],
+    
+          // 코로나19 선별진료 관련 안내
+          '/es/covid-19/': [
+            {
+              text: 'Trujamiento COVID-19',
+              children: [
+                'README.md',
+              ],
+            },
+          ],
+    
+          // 기타사항 안내
+          '/es/other/': [
+            {
+              text: 'Otra noticia',
+              children: [
+                'README.md',
+                'dementia-center.md',
+                'oral-health-care.md',
+                'health-certification.md',
+                'various-rental-service.md',
+              ],
+            },
+          ],
+    
+        },
+      },
+      
     },
 
   },
