@@ -50,4 +50,24 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
 
       - 브랜드 컬러 지정
 
-  - 한글문서 작업 시작
+  - 한글 문서작업 시작
+
+- THU, JUL 8
+
+  - 한글 문서작업 완료
+
+  - 다중언어 설정 완료
+
+    - 다중언어 선택기 적용
+
+  - 다중언어: 영어 설정
+
+    - 영어 페이지 구성 `Navbar` `Sidebar`
+
+    - 영어 문서작업 시작, 완료
+
+- FRI, JUL 9
+
+  - 보건증 관련 문서내용 업데이트
+
+    - 다중언어 작업 완료 `한글` `영어`
