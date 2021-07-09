@@ -35,6 +35,8 @@ This page provides following informations :
 
 - [Other general notice](../other/) `General thing`
 
-  - @Main building `Health certification` `Oral-health business` `Various rental business`
+  - @Main building `Oral-health business` `Various rental business`
 
   - @Annex `Dementia relief center`
+
+  - Temporarily suspended `Health certification`
