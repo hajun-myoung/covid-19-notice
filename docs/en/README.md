@@ -4,10 +4,10 @@ heroImage: image/logo-en.png
 heroAlt: DDC health care center COVID-19 triage boooth logo img
 tagline: Notice for COVID-19 Triage booth and other related business of health care center
 actions:
-  - text: COVID-19 Triage →
+  - text: COVID-19 Triage
     link: /en/covid-19/
     type: primary
-  - text: How to use this page
+  - text: Page Usage
     link: /en/guide/
     type: secondary
 features:
