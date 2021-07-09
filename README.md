@@ -71,3 +71,9 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
   - 보건증 관련 문서내용 업데이트
 
     - 다중언어 작업 완료 `한글` `영어`
+
+    - 스페인어 문서작업 시작
+
+- SAT, JUL 10
+
+  - 다중언어 작업 완료 `스페인어`
