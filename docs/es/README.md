@@ -1,21 +1,21 @@
 ---
 home: true
-heroImage: image/logo-en.png
-heroAlt: DDC health care center COVID-19 triage boooth logo img
-tagline: Notice for COVID-19 Triage booth and other related business of health care center
+heroImage: image/logo-es.png
+heroAlt: Centro de atención de salud de DDC COVID-19 logotipo de trío img
+tagline: Comunicación para la cabina de triage COVID-19 y otras actividades relacionadas del centro de atención de salud
 actions:
-  - text: COVID-19 Triage
-    link: /en/covid-19/
+  - text: Trujamiento COVID-19
+    link: /es/covid-19/
     type: primary
   - text: Page Usage
-    link: /en/guide/
+    link: /es/guide/
     type: secondary
 features:
-  - title: COVID-19 Triage
-    details: In this category, you can check what you need for the test, and how the test goes.
-  - title: Other businesses
-    details: You also can check other businesses related to DDC Health Center.
-  - title: Inquiries, Requests.
-    details: If you have any inquiries or requests, please ask the maintainer below.
-footer: MIT Licensed | Copyright © 2021 hajun-myoung | maintainer Donghun, Lee | lastUpdated @2021.7.9-20:42
+  - title: Trujamiento COVID-19
+    details: En esta categoría, puedes comprobar lo que necesitas para el examen y cómo va el examen.
+  - title: Otras empresas
+    details: También puedes revisar otras empresas relacionadas con el Centro de Salud de DDC.
+  - title: Infracciones, peticiones.
+    details: Si tiene alguna pregunta o petición, por favor pregunte al Mantenedor.
+footer: Licenciado MIT | El derecho de autor © 2021 hajun-myoung | Mantenedor Donghun, Lee | Última Actualización @2021.7.9-20:42
 ---

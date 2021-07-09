@@ -1,12 +1,12 @@
-# Other businesses
+# Otras empresas
 
-While the COVID-19 Triage booth is operating,
-Other businesses run by the DDC health center are:
+Mientras la cabina de Triage COVID-19 está funcionando,
+Otras empresas dirigidas por el centro de salud de DDC son:
 
-- [Dementia relief center(Annex)](./dementia-center.html)
+- [Centro de ayuda de la demencia(Anexo)](./dementia-center.html)
 
-- [Oral-health business](./oral-health-care.html)
+- [Asuntos de salud oral](./oral-health-care.html)
 
-- [Health certification](./health-certification.html)
+- [Certificación sanitaria](./health-certification.html)
 
-- [Various rental business](./various-rental-service.html)
+- [los negocios de la renta](./various-rental-service.html)

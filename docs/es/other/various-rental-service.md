@@ -1,11 +1,11 @@
-# Various rental services
+# Varios servicios de alquiler
 
-## Blood glucose meter free lending business
+## Medidor de glucosa en sangre de libre concesión de créditos
 
-You have to make a reservation and visit the blood glucose meter for free.
+Tiene que hacer una reserva y visitar el contador de glicemia gratis.
 
 ![blood-glucose-meter-poster](./blood-sugar-poster.jpg)
 
-## Rental businesses for breast pump
+## Empresas de alquiler para la bomba de pecho
 
-If you visit the health center and tell the control officer, I'll connect you with the officer in charge.
+Si visita al centro de salud y le dice al oficial de control, te conectaré con el oficial encargado.

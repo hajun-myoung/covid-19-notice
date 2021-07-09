@@ -1,15 +1,19 @@
-# Health certification
+# Certificación sanitaria
 
-:::danger Currently, the work related to the health certificate has been temporarily suspended.
-As COVID-19 infections continue and social distancing levels rise,
-all work related to health certificates has been temporarily suspended.
+:::danger Actualmente, el trabajo relacionado con el certificado de salud ha sido suspendido temporalmente.
+A medida que continúan las infecciones por COVID-19 y aumentan los niveles de distancia social,
+todo trabajo relacionado con los certificados de salud ha sido suspendido temporalmente.
 :::
 
-## Private hospitals
+## Hospitales privados
 
-If you need health examination results(health certification),
-you can apply or issue it at the following private hospitals:
+Si necesitas resultados de exámenes de salud (certificación de salud),
+pueden solicitarlo o emitirlo en los siguientes hospitales privados:
 
-- Dongducheon "Joongang Seongmo" hospital, 53, Donggwang-ro, Dongducheon-si, Gyeonggi-do, Republic of Korea, ☎031-863-0550
+- Hospital Dongducheon "Joongang Seongmo", 53, Donggwang-ro, Dongducheon-si, Gyeonggi-do, República de Corea, ☎031-863-0550
 
-- Yangju "Yes" hospital, 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, Republic of Korea, ☎031-825-5000
+  > `eng` Dongducheon "Joongang Seongmo" hospital, 53, Donggwang-ro, Dongducheon-si, Gyeonggi-do, Republic of Korea
+
+- Hospital Yangju "Sí", 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, República de Corea, ☎031-825-5000
+
+  > `eng` Yangju "Yes" hospital, 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, Republic of Korea

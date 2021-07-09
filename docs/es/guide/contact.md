@@ -1,11 +1,11 @@
-# Inquiries, Requests
+# Encargos, Pedidos
 
-If you have any inquiries or requests, please ask the maintainer below.
+Si tiene alguna pregunta o petición, por favor pregunte al responsable.
 
-**Maintainer** : Donghun, Lee, Health care center, Dongducheon-si.
+**Mantenedor** : Donghun, Lee, Centro de atención médica, Dongducheon-si.
 
-## Request for page creation
+## Solicitud para la creación de la página
 
-If you'd like to request the create a page of the same page like this one,
-please refer to
+Si te gustaría solicitar el crear una página de la misma página como ésta,
+por favor, remételo a
 ["# Contact Me | 연락처"](https://github.com/hajun-myoung/covid-19-notice#contact-me--%EC%97%B0%EB%9D%BD%EC%B2%98)

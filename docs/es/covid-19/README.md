@@ -1,100 +1,108 @@
-# Notice for COVID-19 Triage
+# Comunicación para el aborto COVID-19
 
-## Basic information and Precautions
+## Información básica y precauciones
 
-### Basic information
+### Información básica
 
-**Operating time** : Weekdays(MON~FRI) Morning(09:00~11:30) / Afternoon(13:00~17:30), Saturday 09:30~11:30
+**Tiempo de operación** : Días de semana (MON~FRI) Buenos días(09:00 -11:30) / Almuerzo(13:00 -17:30), sábado 09:30 -11:30
 
-> Control can be achieved depending on how many people are waiting before the end time and how many contacts have occurred.
-We recommend that you visit in advance for a smooth examination.
+> Se puede lograr el control dependiendo de cuántas personas están esperando antes del final del tiempo y de cuántos contactos se han producido.
+Le recomendamos que se visite por adelantado para un examen regular.
 
-**Location** : Dongducheon-si Health Care Center, 167, Jungang-ro, Dongducheon-si, Gyeonggi-do, Republic of Korea
+**¡Localización!** : Centro de Cuidados de Salud Dongducheon-si, 167, Jungang-ro, Dongducheon-si, Gyeonggi-do, República de Corea
 
-### Precautions
+> `eng address` Dongducheon-si Health Care Center, 167, Jungang-ro, Dongducheon-si, Gyeonggi-do, Republic of Korea
 
-- Please make sure to take the required items.
+### Cuidado
 
-- Please stand behind the yellow safety tape in the queue. (Social distancing)
+- Por favor, asegúrate de tomar los artículos necesarios.
 
-- Please visit in time for the operation.
+- Por favor, póngase detrás de la cinta amarilla de seguridad en la fila. (Distanciamiento social)
 
-## Required Items
+- Por favor, visite a tiempo para la operación.
 
-### ID card
+## Punto necesario
 
-In order to receive COVID-19 test, you must bring your **ID card**.  
+### Tarjeta de Identificación
 
-ID cards such as resident registration cards, *driver's license*, *passport*, *foreign registration card*, *Copy or Abstract of Certification of Resident Register*,  
-For students, *student ID* is also available.
+Para recibir el examen COVID-19, debe llevar su tarjeta **ID**.  
 
-For a child who doesn't have an ID yet, we need the child's social security number.
+tarjetas de identificación, como tarjetas de registro residencial, *licencia de conducir*, *passaporte*, *carta de registro extranjera*, *Copia o Abstracto de la certificación del registro de residentes*,  
+Para los estudiantes, también está disponible una identificación de estudiante.
 
-> Sometimes, people who come to the center by car submit their car registration certificate.
+Para un niño que aún no tiene identificación, necesitamos el número de seguridad social del niño.
 
-:::tip It doesn't have to be a real card.
-Just a picture of your ID card is also okay.
+> A veces, las personas que vienen al centro en auto presentan sus certificados de registro de auto.
+
+:::tip No tiene que ser una tarjeta de verdad.
+Una foto de tu tarjeta de identificación también está bien.
 :::
 
-### A Message or a log of contact
+### Un mensaje o un registro de contacto
 
-:::danger This applies to cases of close contact with COVID-19 confirmed patients or overlapping movements.
+:::danger Esto se aplica a casos de contacto estrecho con pacientes confirmados por COVID-19 o de sobrelazos de movimientos.
 
-- If you receive a message or contact that said 'You have to take COVID-19 test' from the health care center, or the other institution,
+- Si recibe un mensaje o contacto que diga "Tienes que hacer el examen COVID-19" del centro de salud, o de la otra institución,
 
-- Or if you are included of a message or contact 'If you visit (Place) at (Interval), take COVID-19 test at nearest health care center',  
+- O si está incluido en un mensaje o en el contacto 'Si visita (Plaza) en (Interval), haga el examen COVID-19 en el centro de salud más cercano',  
 
-You need to show me **the text message you received or the log of contact.**
+Tienes que mostrarme **el mensaje de texto que recibiste o el registro de contacto.**
 :::
 
-## the Method of Triage
+## el Método de Triage
 
 ![order](./order.png)
 
-1. **Diagnose** : When it's your turn, you can register and get diagnose.
+1. **Diagnosticar** : Cuando te toca, puedes registrarte y ser diagnosticado.
 
-    :::warning What will I do?
-    While diagnose, we will check some basic infromation for COVID-19 test.  
-    We can check your ID, the purpose of COVID-19 test(why you received it), and the underlying disease(disorder you have), etc.
+    :::warning ¿Qué voy a hacer?
+    Mientras diagnostiquemos, comprobaremos algunas información básica para el test COVID-19.  
+    Podemos comprobar su identificación, el propósito del examen COVID-19 (por qué lo recibió), y la enfermedad subyacente (perturbações que tienen), etc., etc.
     :::
 
-1. **Sampling** : Take some samples for COVID-19 test.
+1. **La muestra** : Toma algunas muestras para el examen COVID-19.
 
-### Inspection In Progress Precautions
+### Inspección en curso Prevenciones
 
-- Please follow the instructions.
+- Por favor sigan las instrucciones.
 
-- When you wait for Diagnose or Sampling, keep stand behind the yellow safety line. (Social distancing)
+- Cuando esperes a Diagnosar o a Sampling, mantenerte detrás de la línea de seguridad amarilla. (Distanciamiento social)
 
-- If you need, your guardian can accompany you to Diagnose or Sampling.
+- Si lo necesitas, tu tutor puede acompañarte a diagnosticar o a tomar muestras.
 
-## Costs
+## Costes
 
-The current Covid-19 test conducted by the health center is a **100% payroll test**.
-Therefore, no inspection costs are incurred.  
-Please note that **non-payment inspection**, which is paid at your own expense, is not being carried out.
+El examen actual Covid-19 realizado por el centro de salud es un examen de paga **100%**.
+Por lo tanto, no se sufre ningún coste de inspección.  
+Por favor, no se haga una inspección de no pago**, que se paga a sus propias expensas.
 
-## Verification documents
+## Documentos de verificación
 
-**There are no verification documents** that the COVID-19 test has been carried out,
-or a result sheet notifying the test result that it is positive or negative.
+**No hay documentos de verificación** de que se haya realizado el test COVID-19,
+o una hoja de resultados que notifique al resultado del examen que es positivo o negativo.
 
-:::details How can I check the result of test?
-We only service the result of test via text message.
+:::details ¿Cómo puedo comprobar el resultado del examen?
+Sólo servimos el resultado del examen por mensaje de texto.
 :::
 
-However, for students, we can sign the certificate if you bring it with you.
+Sin embargo, para los estudiantes, podemos firmar el certificado si lo traes contigo.
 
-If you need the document results for departure inspection,
-please visit a private hospital for inspection.
+Si necesita los resultados del documento para inspección de partida,
+por favor visite un hospital privado para inspección.
 
-:::details Private hospitals capable of COVID-19 testing:
-There is no private hospital in Dongducheon that conducts COVID-19 test. I recommend the following hospitals:
+:::details Hospitales privados capaces de hacer pruebas COVID-19:
+No hay ningún hospital privado en Dongducheon que lleve a cabo el examen COVID-19. Recomiendo los siguientes hospitales:
 
-- Yangju "Yes" hospital, 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, Republic of Korea, ☎ 031-825-5000
+- El hospital Yangju "Sí", 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, República de Corea, ☎ 031-825-5000
 
-- Uijeongbu "Baek" hospital, 322, Geumsin-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea, ☎ 031-856-8111
+  > `eng` Yangju "Yes" hospital, 103, Hoejeong-ro, Yangju-si, Gyeonggi-do, Republic of Korea
 
-- Uijeongbu "Choo" hospital, 650, Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea, ☎ 031-845-7777
+- El hospital de Uijeongbu "Baek", 322, Geumsin-ro, Uijeongbu-si, Gyeonggi-do, República de Corea, ☎ 031-856-8111
+
+  > `eng` Uijeongbu "Baek" hospital, 322, Geumsin-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea
+
+- El hospital de Uijeongbu "Choo", 650, Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do, República de Corea, ☎ 031-845-7777
+
+  > `eng` Uijeongbu "Choo" hospital, 650, Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea
 
 :::

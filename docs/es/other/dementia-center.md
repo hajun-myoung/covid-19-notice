@@ -1,11 +1,11 @@
-# Visit Dementia relief center
+# Visita al centro de ayuda de Demenia
 
-Those who want to visit the dementia relief center and work related to dementia should visit the health center annex.
+Quienes quieran visitar el centro de ayuda a la demencia y trabajar relacionado con la demencia deben visitar el anexo del centro de salud.
 
-## Location and way to go
+## Forma y lugar de irse
 
 ![Annex-location](./dementia-center-posi.png)
 
-:::danger Route 1(the way through the center) has been blocked by the COVID-19
-Please use route 2(the way back to the pharmacy) to go Annex.
+:::danger La ruta 1 (la vía a través del centro) ha sido bloqueada por la COVID-19
+Por favor, usen la ruta 2 (la vuelta a la farmacia) para ir al Anexo.
 :::

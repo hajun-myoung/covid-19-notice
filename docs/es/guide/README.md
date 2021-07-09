@@ -1,40 +1,42 @@
-# Introduction
+# Introducción
 
-Hello, this is Triage support team of Dongducheon City Health Center Center.  
-This page is created to inform you of the public notice related to the general affairs of triage and health centers during the Covid-19 response period.
+Hola, soy el equipo de apoyo Triage del Centro de Salud de Dongducheon.  
+Esta página es creada para informarles de la noticia pública relativa a los asuntos generales de los centros de triage y salud durante el período de respuesta Covid-19.
 
-See below to see where and what information you can find :smiley:
+Ver más abajo para ver dónde y qué información encontrará :smiley:
 
 ## Layouts of Home
 
-The layouts of [Home](../) is like this :
+Las [páginas principales](../) están las siguientes:
 
 ![layout-guide-01](./guide-rayout-01.png)
 
-1. Press the `COVID-19 Triage` button to go to the related information page.
+1. Presiona el botón `COVID-19 Triage` para ir a la página de información relacionada.
 
-1. Press the `How to use this page` button to go guide page(this page).
+1. Presiona el botón `Cómo usar esta página` para ir a la página guía (esta página).
 
-1. Press the `COVID-19 Triage` button at the right top to go to the related information page.
+1. Presiona el botón `COVID-19 Triage` en la parte derecha para ir a la página de información relacionada.
 
-    - It's the same button as button number 1.
+    - Es el mismo botón que el número 1.
 
-1. Press the `Other notice` button at the right top to go to the general business information page other than triage.
+1. Presiona el botón `Otro aviso` en la parte superior derecha para ir a la página general de información comercial que no sea la triagía.
 
-1. Press the `Sun mark` at the right top, you can change the theme to Dark-mode.
+1. Presiona la `Marca del Sol` en la parte derecha, puede cambiar el tema a Modo Oscuro.
 
-1. Via the `Languages` button at the right top, you can choose another language.
+1. A través del botón `Languías` en la parte superior derecha, se puede elegir otra lengua.
 
-1. By the `Search Box` at the right top, you can find some information on this page.
+1. En la `caja de búsqueda` en la parte superior derecha, se pueden encontrar algunas información en esta página.
 
-## List of Notice
+## Lista de la noticia
 
-This page provides following informations :
+Esta página ofrece las siguientes informaciones :
 
-- [Notice for COVID-19 Triage(test)](../covid-19/) `Preparation`, `Inspection Method/Time`, `Operation Time`
+- [Comunicación para el tratamiento COVID-19(test)](../covid-19/) `Preparación`, `Método de inspección/Tiempo`, `Tiempo de operación`
 
-- [Other general notice](../other/) `General thing`
+- [Aviso a otros generales](../other/) `Lo general`
 
-  - @Main building `Health certification` `Oral-health business` `Various rental business`
+  - @El edificio principal `los negocios Oral-health` `Diversos negocios de alquiler`
 
-  - @Annex `Dementia relief center`
+  - @Anexo `Centro de La Demencia`
+
+  - Trabajo temporalmente suspendido `Certificación sanitaria`

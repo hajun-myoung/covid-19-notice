@@ -1,17 +1,17 @@
-# Oral health care business
+# Asistencia médica oral
 
-**Operating dates** : Every Tuesday, Morning 09:30~11:30 / Afternoon 13:30~17:30
+**Días de operación** : Cada martes, mañana 09:30 -11:30 /Abuena 13:30 -17:30
 
-## Services
+## Servicios de Servicios
 
-If you visit the health center every Tuesday, you can get a toothbrush and fluoride solution.  
+Si visita el centro de salud cada martes, puede conseguir un cepillo de dientes y una solución de fluoruro.  
 
-- One toothbrush every two months, Each family member.
+- Cada dos meses, cada miembro de la familia.
 
-  - You can choose strong wool / soft wool.
+  - Tú puedes elegir de lana fuerte / de lana suave.
   
-- Only one fluorine solution is provided per household. If you use it all, you can get it again at the health center.
+- Sólo una solución para el flúor se ofrece por hogar.Si la usas bien, ¿puedo hacerlo de nuevo en el eenter la salud.
 
-:::warning When you refilling the fluorine solution,
-Please bring the fluorine solution container you received for the first time.
+:::warning Cuando rellenas la solución de fluor,
+Por favor traiga el contenedor de solución de fluor que recibió por primera vez.
 :::
