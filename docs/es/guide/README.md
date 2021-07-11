@@ -5,6 +5,8 @@ Esta página es creada para informarles de la noticia pública relativa a los as
 
 Ver más abajo para ver dónde y qué información encontrará :smiley:
 
+Si quieren, aquí está [el sitio oficial del centro de atención médica de DDC](https://www.ddc.go.kr/health/index.do)
+
 ## Layouts of Home
 
 Las [páginas principales](../) están las siguientes:

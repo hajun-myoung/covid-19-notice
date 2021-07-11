@@ -5,6 +5,8 @@ This page is created to inform you of the public notice related to the general a
 
 See below to see where and what information you can find :smiley:
 
+If you want, here is [the official site of the DDC health care center](https://www.ddc.go.kr/health/index.do)
+
 ## Layouts of Home
 
 The layouts of [Home](../) is like this :
