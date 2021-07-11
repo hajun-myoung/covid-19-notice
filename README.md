@@ -77,3 +77,11 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
 - SAT, JUL 10
 
   - 다중언어 작업 완료 `스페인어`
+
+- SUN, JUL 11
+
+  - `/기타 안내/구강 보건` 내용 업데이트
+
+    - 구강보건사업 명칭 기재 : *원스톱 구강건강지킴이*
+
+    - 운영대상 추가 기재
