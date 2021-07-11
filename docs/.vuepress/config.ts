@@ -220,7 +220,10 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           '/en/': {
             placeholder: 'Search here',
-          }
+          },
+          '/es/': {
+            placeholder: 'Busca aquí',
+          },
         },
       },
     ],
