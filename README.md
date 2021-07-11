@@ -85,3 +85,7 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
     - 구강보건사업 명칭 기재 : *원스톱 구강건강지킴이*
 
     - 운영대상 추가 기재
+
+- MON, JUL 12
+
+  - '기저 질환' 관련 설명 추가 기재
