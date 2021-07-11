@@ -55,7 +55,12 @@ You need to show me **the text message you received or the log of contact.**
 
     :::warning What will I do?
     While diagnose, we will check some basic infromation for COVID-19 test.  
-    We can check your ID, the purpose of COVID-19 test(why you received it), and the underlying disease(disorder you have), etc.
+    We can check your ID, the purpose of COVID-19 test(why you received it), and the underlying disease(diseases you have), etc.
+    :::
+
+    :::details What exactly is an 'Underlying disease'?
+    Underlying diseases are some diseases that cause other diseases. It can be some conditions that you have at the diagnose, or also can any diseases that you have usually.  
+    It includes *headache, sore throat, fever, diabetes, heart disease, obesity, cancer, and kidney disease*.
     :::
 
 1. **Sampling** : Take some samples for COVID-19 test.

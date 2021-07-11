@@ -55,10 +55,15 @@ Tienes que mostrarme **el mensaje de texto que recibiste o el registro de contac
 
 1. **Diagnosticar** : Cuando te toca, puedes registrarte y ser diagnosticado.
 
-    :::warning ¿Qué voy a hacer?
-    Mientras diagnostiquemos, comprobaremos algunas información básica para el test COVID-19.  
-    Podemos comprobar su identificación, el propósito del examen COVID-19 (por qué lo recibió), y la enfermedad subyacente (perturbações que tienen), etc., etc.
-    :::
+  :::warning ¿Qué voy a hacer?
+  Mientras diagnostiquemos, comprobaremos algunas información básica para el test COVID-19.  
+  Podemos comprobar su identificación, el propósito del examen COVID-19 (por qué lo recibió), y la enfermedad subyacente (perturbações que tienen), etc., etc.
+  :::
+
+  :::details ¿Qué es exactamente una "enfermedad subyacente"?
+  Las enfermedades subyacentes son algunas que causan otras enfermedades. Puede ser algunas enfermedades que tienen en el diagnóstico, o también cualquier enfermedad que suele tener.  
+  Incluye *dolores de cabeza, dolor de garganta, fiebre, diabetes, enfermedades cardíacas, obesidad, cáncer y enfermedades renales*.
+  :::
 
 1. **La muestra** : Toma algunas muestras para el examen COVID-19.
 
