@@ -1,10 +1,16 @@
 # Oral health care business
 
-**Operating dates** : Every Tuesday, Morning 09:30~11:30 / Afternoon 13:30~17:30
+## One-stop mouth health protector
 
-## Services
+> [Official Guidance](https://www.ddc.go.kr/health/contents.do?key=1566)
 
-If you visit the health center every Tuesday, you can get a toothbrush and fluoride solution.  
+**Operating dates** : Every Tuesday, Morning 09:30~11:30 / Afternoon 13:30~17:00
+
+### Services
+
+- **Target**: Dongducheon-si Citizen
+
+- If you visit the health center every Tuesday, you can get a toothbrush and fluoride solution.  
 
 - One toothbrush every two months, Each family member.
 
@@ -12,6 +18,6 @@ If you visit the health center every Tuesday, you can get a toothbrush and fluor
   
 - Only one fluorine solution is provided per household. If you use it all, you can get it again at the health center.
 
-:::warning When you refilling the fluorine solution,
-Please bring the fluorine solution container you received for the first time.
-:::
+  :::warning When you refilling the fluorine solution,
+  Please bring the fluorine solution container you received for the first time.
+  :::
