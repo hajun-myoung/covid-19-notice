@@ -17,5 +17,5 @@ features:
     details: You also can check other businesses related to DDC Health Center.
   - title: Inquiries, Requests.
     details: If you have any inquiries or requests, please ask the maintainer below.
-footer: MIT Licensed | Copyright © 2021 hajun-myoung | maintainer Donghun, Lee | lastUpdated @2021.7.11-22:31
+footer: MIT Licensed | Copyright © 2021 hajun-myoung | maintainer Donghun, Lee | lastUpdated @2021.7.12-08:31
 ---
