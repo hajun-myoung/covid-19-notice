@@ -89,3 +89,7 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
 - MON, JUL 12
 
   - '기저 질환' 관련 설명 추가 기재
+
+  - 파비콘(favicon) 생성 및 적용 완료
+
+  - `newContents`백신접종, 사전예약, 잔여백신 예약 방법 안내 추가
