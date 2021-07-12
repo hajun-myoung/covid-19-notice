@@ -17,5 +17,5 @@ features:
     details: También puedes revisar otras empresas relacionadas con el Centro de Salud de DDC.
   - title: Infracciones, peticiones.
     details: Si tiene alguna pregunta o petición, por favor pregunte al Mantenedor.
-footer: Licenciado MIT | El derecho de autor © 2021 hajun-myoung | Mantenedor Donghun, Lee | Última Actualización @2021.7.12-08:31
+footer: Licenciado MIT | El derecho de autor © 2021 hajun-myoung | Mantenedor Donghun, Lee | Última Actualización @2021.7.12-22:18
 ---
