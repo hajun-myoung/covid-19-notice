@@ -41,4 +41,6 @@ This page provides following informations :
 
   - @Annex `Dementia relief center`
 
+  - Other `COVID-19 Vaccine reservation`
+
   - Temporarily suspended `Health certification`

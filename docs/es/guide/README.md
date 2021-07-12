@@ -41,4 +41,6 @@ Esta página ofrece las siguientes informaciones :
 
   - @Anexo `Centro de La Demencia`
 
+  - Otro `eservas de vacunas COVID-19`
+
   - Trabajo temporalmente suspendido `Certificación sanitaria`
