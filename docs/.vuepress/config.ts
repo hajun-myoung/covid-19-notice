@@ -100,23 +100,24 @@ export default defineUserConfig<DefaultThemeOptions>({
                 'oral-health-care.md',
                 'health-certification.md',
                 'various-rental-service.md',
+                'vaccine.md',
               ],
             },
           ],
-    
+          
         },
       },
       
       '/en/': {
         selectLanguageName : 'English',
-
+        
         logo: './image/logo-en.png',
         lastUpdated: true,
         contributors: false,
         home: '/en/',
         notFound: ["I'm sorry, This page doesn't exist."],
         backToHome: 'Back to the home →',
-
+        
         navbar: [
           {
             text: 'COVID-19 Triage',
@@ -127,19 +128,19 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: '/en/other/'
           },
         ],
-    
+        
         sidebar: {
           // 가이드
           '/en/guide/': [
-              {
-                  text: 'How to use this page',
-                  children: [
-                    'README.md',
-                    'contact.md',
-                  ]
-              }
+            {
+              text: 'How to use this page',
+              children: [
+                'README.md',
+                'contact.md',
+              ]
+            }
           ],
-    
+          
           // 코로나19 선별진료 관련 안내
           '/en/covid-19/': [
             {
@@ -149,7 +150,7 @@ export default defineUserConfig<DefaultThemeOptions>({
               ],
             },
           ],
-    
+          
           // 기타사항 안내
           '/en/other/': [
             {
@@ -160,23 +161,24 @@ export default defineUserConfig<DefaultThemeOptions>({
                 'oral-health-care.md',
                 'health-certification.md',
                 'various-rental-service.md',
+                'vaccine.md',
               ],
             },
           ],
-    
+          
         },
       },
       
       '/es/': {
         selectLanguageName : 'Espagnol',
-
+        
         logo: './image/logo-es.png',
         lastUpdated: true,
         contributors: false,
         home: '/es/',
         notFound: ["Lo siento, esa página no existe."],
         backToHome: 'De vuelta a la casa →',
-
+        
         navbar: [
           {
             text: 'Trujamiento COVID-19',
@@ -187,19 +189,19 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: '/es/other/'
           },
         ],
-    
+        
         sidebar: {
           // 가이드
           '/es/guide/': [
-              {
-                  text: 'Cómo usar esta página',
-                  children: [
-                    'README.md',
-                    'contact.md',
-                  ]
-              }
+            {
+              text: 'Cómo usar esta página',
+              children: [
+                'README.md',
+                'contact.md',
+              ]
+            }
           ],
-    
+          
           // 코로나19 선별진료 관련 안내
           '/es/covid-19/': [
             {
@@ -209,7 +211,7 @@ export default defineUserConfig<DefaultThemeOptions>({
               ],
             },
           ],
-    
+          
           // 기타사항 안내
           '/es/other/': [
             {
@@ -220,6 +222,7 @@ export default defineUserConfig<DefaultThemeOptions>({
                 'oral-health-care.md',
                 'health-certification.md',
                 'various-rental-service.md',
+                'vaccine.md',
               ],
             },
           ],
