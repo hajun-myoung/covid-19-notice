@@ -93,3 +93,9 @@ If you have any problems, inquiries, or requests, please contact me at `audgkwns
   - 파비콘(favicon) 생성 및 적용 완료
 
   - `newContents`백신접종, 사전예약, 잔여백신 예약 방법 안내 추가
+
+- WED, JUL 14
+
+  - `/기타 안내/구강 보건` 내용 업데이트
+
+    - 원스톱 구강건강 지킴이 잠정 중단 공지
